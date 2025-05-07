@@ -1,2 +1,2 @@
 # CSCapstone
-QRcodereader app
+Reading the README.md
